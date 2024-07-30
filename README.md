@@ -1,4 +1,4 @@
-# Netflix_Project
+# Media_Project
 
 ## Netflix Data Analysis Project
 
